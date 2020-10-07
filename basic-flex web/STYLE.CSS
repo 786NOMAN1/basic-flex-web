@@ -1,0 +1,52 @@
+.navbar{
+    background-color: aqua;
+    display: flex;
+    width: 100%;
+    
+}
+
+.logo{background-image: url(Landscape-Background-Pictures.jpg);
+    width: 70%;
+    color: white;
+
+}
+
+.menu{
+    text-align: center;
+  
+    padding-top: 25px;
+    background-image: url(fantasy.jpg);
+    width: 30%;
+color: whitesmoke;
+}
+
+.mainarea{
+    display: flex;
+    background-color:blue;
+}
+
+.section1{
+    text-align: center;
+    background-image: url(e1.jpg);
+   width: 20%;
+}
+.section2{
+    text-align: center;
+    background-image: url(e1.jpg);
+     width: 60%;
+}
+
+.section3{
+    background-image: url(e1.jpg);
+   width: 20%;
+}
+
+
+.footer{
+ padding: 2%;
+    text-align: center;
+background-image: url(fantasy.jpg);
+}
+.im1{width: 100%;
+height: 200px;
+}
